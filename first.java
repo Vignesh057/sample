@@ -9,4 +9,5 @@ public class PositiveOrNegative {
             System.out.println(number + " is neither positive nor negative");
         }
     }
+    
 }
